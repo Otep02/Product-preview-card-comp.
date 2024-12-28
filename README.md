@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots/Screenshot_1.jpg)
-![](/screenshots/Screenshot_2.jpg)
+![](/screenshots/Screenshot_1.jpeg)
+![](/screenshots/Screenshot_2.jpeg)
 
 
 ### Links
